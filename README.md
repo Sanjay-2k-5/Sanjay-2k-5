@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sanjay-2k-5
+
+<h1 align="center">👋 Hi, I’m @Sanjay-2k-5</h1>
 - 👀 I’m interested in Building applications, exploring new technologies, and solving real-world problems with programming, 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning **DSA**
 - 💞️ I’m looking to collaborate on Projects related to web applications, automation, and innovative software solutions.
-- 📫 How to reach me Sanjayofficial2k@gmail.com
+- 📫 How to reach me **Sanjayofficial2k@gmail.com**
 - 😄 Pronouns: He / Him
 
 <!---
