@@ -99,9 +99,9 @@ I love building both **front-end experiences** and **intelligent back-end system
 ### 🐍 GitHub Contribution Graph & Streak  
 
 <p align="center">
-  <img src="https://github.com/Sanjay-2k-5.png?tab=contributions" alt="Contribution Graph" width="400" />
+  <img src="https://github.com/Sanjay-2k-5.png?tab=contributions" alt="Contribution Graph" width="250" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-2k-5&theme=radical&hide_border=true" alt="Streak Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-2k-5&theme=radical&hide_border=true" alt="Streak Stats" width="250" />
 </p>
 
 ---
