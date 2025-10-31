@@ -74,19 +74,6 @@ I love building both **front-end experiences** and **intelligent back-end system
 
 ---
 
-### 🌈 GUI / Dashboard Vision  
-
-> _“Turning data into insights through seamless UI.”_  
-
-🖥️ **Planned GUI features:**  
-- Modern **dashboard** for analytics (Chart.js + TailwindCSS)  
-- **Dark / Gradient Tech UI** with responsive layouts  
-- User login, profile stats, and adaptive feedback modules  
-- Interactive **data visualization** & **progress charts**  
-- Integration with **Node.js APIs** + **PostgreSQL / MongoDB** backend  
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
